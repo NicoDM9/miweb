@@ -1,4 +1,4 @@
-# Diferentes formas de declarar variables en python
+# Distintas formas de declarar variables en python
 nombre_curso = "Ultimate Python"
 nombre1 = "Hola"
 NOMBRE_CURSO = "Mundo"
