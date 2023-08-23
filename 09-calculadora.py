@@ -1,3 +1,4 @@
+# Segundo ejercicio aplicando lo aprendido en el curso
 print("Bienvenido a la calculadora")
 print("Escribe salir para salir")
 print("Las operaciones son suma, resta, multi, div")
